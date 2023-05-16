@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <div className="container">
-        <div className="left"> Navbar</div>
+        <div className="left"> Navbarrrrr</div>
 
         <div className="right"> test of nav bbaar 22</div>
       </div>
